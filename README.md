@@ -14,11 +14,7 @@ The project is organized into the following directories:
 - **05_inference**: Scripts for making predictions on new data.
 - **06_functions**: Custom functions used across the project.
 - **07_artifacts**: Contains the saved models and other artifacts.
+- **08_analysis**: Contains the answers to the questions in the instructions.
 
-## Virtual Environments
 
-The project uses two virtual environments:
-
-- **procore_venv**: The general environment for the project.
-- **procore_venv_catboost**: A specialized environment for running the CatBoost model.
 
